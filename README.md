@@ -15,3 +15,7 @@ This landing page theme is built on [shorthand css framework](https://github.com
 The theme is available under the MIT License.
 
 Yo yo yo mfs
+=======
+This was made for the CS club at WFS
+
+hello world
