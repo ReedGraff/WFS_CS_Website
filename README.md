@@ -13,3 +13,5 @@ This landing page theme is built on [shorthand css framework](https://github.com
 ## LICENSE
 
 The theme is available under the MIT License.
+
+This was made for the CS club at WFS
